@@ -1,0 +1,24 @@
+.ready{
+    background-image:url('../img/fond1.png');
+    width: 200vh;
+    height:100vh;
+    background-size: cover;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+#btn1{
+    top:60vh;
+    left: 30vh;
+    position: fixed;
+}
+#btn2{
+    top:60vh;
+    left: 150vh;
+    position: fixed;
+}
+#msg{
+    position: absolute;
+    top: 50vh;
+    left: 100vh;
+    color:#000;
+}
