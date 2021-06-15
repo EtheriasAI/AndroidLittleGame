@@ -1,3 +1,3 @@
 # AndroidLittleGame
 
-It's a simple game i developp to test android application with Apache Cordova
+It's a simple game I developp to test android application with Apache Cordova
